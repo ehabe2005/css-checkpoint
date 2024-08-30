@@ -1,0 +1,305 @@
+.logo {
+    height: auto;
+    }
+
+nav{
+    display: flex;
+   justify-content: space-between;
+   width: 80%;
+   margin: 0 auto;
+}
+
+.ul-nav{
+    list-style: none;
+    display:flex;
+    gap: 30px;
+    align-items:center;
+}
+
+a{
+   text-decoration: none;
+   color:#747474;
+}
+
+.link-nav:hover{
+    background-color: #00b39b;
+}
+
+.lead-section{
+   text-align: center;
+  margin-top: 40px;
+  
+}
+.lead-h1{
+    color: #00b39b;
+    margin: 1em 0;
+    font-size: 2.125rem;
+}
+
+h1,h2,h3,h4{
+    font-family:"Work Sans",Arial,sans-serif;
+    font-weight: 300;
+} 
+p{
+    color: #747474;
+}
+
+.grid{
+    display: flex;
+    justify-content:space-between;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.grid-p{
+    padding-top:10px;
+    padding-bottom:10px;
+    text-align: left;
+    font-size:  16px;
+    line-height: 1.75;
+    color: #747474;
+    font-family:arial,sans-serif;
+}
+
+.services{
+    display: flex;
+    justify-content:space-around;
+    width: 90%;
+    margin: 0 auto;
+    flex-wrap:wrap;
+    margin-top: 50px;
+
+}
+
+.patients{
+    background-color: aqua;
+    border-radius:10px;
+    height: 300px;;
+    width: 22.33%;
+    padding: 2%
+}
+
+.doctors{
+    background-color:#3d83df;
+    border-radius:5px;
+    height: 300px;
+    width:22.33%;
+    padding: 2%
+
+}
+
+.clinics{
+    background-color:#1b2734;
+    border-radius:5px;
+    padding:2%;
+    height: 300px;
+    width: 22.33%;
+
+}
+
+select{
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-weight:400;
+    font-size: large;
+    text-decoration: underline;
+}
+
+
+
+option{
+    color: black;
+}
+
+.for{
+    color: white;
+    font-size:1.625em;
+    font-weight:400;
+    width: 22.33%;
+
+}
+
+.content-services{
+color: white;
+}
+
+.country-patients{
+    background-color: black;
+
+}
+
+.the-world{
+    color: #00b39b;
+    width: 320px;
+    font-size: 34px;  
+}
+
+.stats{
+    height: 700px;
+    background-color:#e5faf8;
+    display: flex;
+    margin-top: 100px;
+}
+
+.biggest{
+    height:200px;
+    margin: 50px;
+    
+    
+}
+
+.stats-header{
+    width: 444px ;
+    color:#747474;
+    font-family: "roboto";
+}
+
+.h1-items{
+    color: #00b39b;
+}
+
+.stats-items{
+    display: flex;
+  flex-wrap: wrap;
+  
+}
+
+
+.item-leader{ 
+    border-radius: 10px;
+    background-color: white;
+    height: 250px;
+    width: 252px;
+    text-align: center;
+    align-content: center;
+    margin:60px;
+    margin-right: 50px;
+}
+
+
+.item-appointments{
+    border-radius: 5px;
+    background-color: white;
+    height: 250px;
+    width: 252px;
+    text-align: center;
+    align-content: center;
+    margin: 25px;
+}
+
+.item-patients{
+    border-radius:5px;
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    align-content: center;
+    margin: 60px;
+    background-color: white;
+}
+
+.item-doctors{
+    border-radius: 5px;
+    background-color: white;
+    height: 250px;
+    width: 252px;
+    text-align: center;
+    align-content: center;
+
+}
+
+.before-office-desc{
+    display: grid;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.improve{
+    color: #00b39b;
+    display: grid;
+    justify-content: center;
+
+}
+
+.change{
+    color: #00b39b;
+    display: grid;
+    justify-content: center;
+    margin-top: -25px;
+
+}
+
+.more{
+    font-family: "roboto";
+     color:#747474;
+    display: grid;
+    justify-content: center;
+    margin-top: -5px;
+    text-align:center;
+}
+
+.offices-section{
+    display:flex;
+    flex-wrap:wrap;
+    height: 0 auto;
+    width:0 auto;
+    justify-content:space-between ;
+   margin-left: 100px;
+   margin-right: 100px;
+
+}
+
+.div-cities{
+    margin-left:10px;
+    margin-right:10px;
+    display:flex;
+    height: 270px;
+    width: 270px;
+    
+}
+
+.foto-cities{
+    margin-top: 50px;
+    border-radius:5px 5px 0px 0px;
+}
+
+button{
+    background: #3d83df;
+    border-color: #3d83df;
+    color: #fff;
+    border-radius: 4px;
+    height: 30px;
+    text-transform: uppercase;
+
+}
+
+.button-cities{
+    font-size: 18px;
+    font-family:"Roboto",Arial,sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left:20px;
+    margin-right: 20px;
+}
+
+.join-us{
+    text-align: center;
+    margin-top: 70px;
+     }
+
+.footer{
+    text-align: center;
+    font:12px "Roboto",Arial,sans-serif; 
+    margin-top: 100px;
+    border-top:1px solid #747474;
+}
+
+a{
+    color: #3d83df;
+}
+
+
+
+    
+
