@@ -1,0 +1,165 @@
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 auto;
+}
+
+a{
+    
+    text-decoration: none;
+    color: black;
+   text-align: center;
+   font-size: 20px;
+}
+ 
+img{
+    margin: 0 auto;
+}
+
+.a5{
+    margin-top: 50px;
+    height: 640px;
+    background-image: url('https://www.audi.it/content/dam/nemo/it/hp30/stage/Header-A5-1920x1080.jpg?width=1440');
+    background-repeat: no-repeat;
+}
+
+
+.new{
+    color: white;
+    font-size: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:28px 70px 8px;
+    
+}
+
+.p-evolution{
+    color: white;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:28px 70px ;
+    color:      #E5E5E5;
+}
+
+.buttons{
+    margin: 0px 70px;
+    width: 100%;
+}
+.find-button{
+    border-style: none;
+    height: 50px;
+    width:150px;
+    background-color:  #FFFFFF;
+}
+.Counfigure-button {
+    
+    border-color: #FFFFFF;
+    color: white;
+    height: 50px;
+    width:150px;
+    background-color:transparent ;
+
+}
+
+.all{
+    margin-left: 30px;
+}
+
+.ul-models{
+    margin-left: 30px;
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+
+
+.models-slide{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.e-tronGT{
+    text-align: center;
+}
+
+.A6e-tron{
+    text-align: center;
+}
+
+.Q8e-tron{
+    text-align: center;
+}
+
+.Q4e-tron{
+    text-align: center;
+}
+
+.a1{
+    text-align: center
+}
+
+.a3{
+    text-align: center;
+}
+
+.a4{
+    text-align: center;
+}
+
+.new-a5{
+    text-align: center;
+}
+
+.ul-slide{
+    display: flex;
+    list-style: none;
+}
+
+.h1-footer{
+    color: #E5E5E5;
+}
+
+.ul-range{
+    list-style: none;
+    color: #E5E5E5;
+}
+
+footer{
+    margin-top: 100px;
+    background-color: black;
+    
+
+}
+
+.section-footer{
+    display: flex;
+    justify-content:space-around;
+    border-bottom:1px solid #FFFFFF ;
+}
+
+.p-footer{
+    
+    color: #E5E5E5;
+
+}
+
+.p-footer{
+    margin-top: 30px;
+}
+
+.credits{
+   
+    color: #E5E5E5;
+}
+
+.div-credits{
+    color: #E5E5E5;
+    display: flex;
+}
